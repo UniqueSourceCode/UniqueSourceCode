@@ -3,12 +3,12 @@ I'm **Michael**, currently a Junior majoring Electrical Engineering at POSTECH.
 
 Skills:
 ---
- -Primary languages : c++, java, python
- -Comfortable with: STL, Memory management, OOP, Data Structures, Algorithms
+ - Primary languages : c++, java, python
+ - Comfortable with: STL, Memory management, OOP, Data Structures, Algorithms
 
 Projects:
 ---
- -POSTECH Library Reserveration Script (Although exploiting a vulnerability)
+ - POSTECH Library Reserveration Script (Although exploiting a vulnerability)
 
 Intentions:
 ---
