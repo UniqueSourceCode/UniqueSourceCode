@@ -1,16 +1,16 @@
 ## UniqueSourceCode
 I'm Michael, currently a Junior majoring Electrical Engineering at POSTECH.
 
-#Skills:
+Skills:
 ---
 -Primary languages : c++, java, python
 -Comfortable with: STL, Memory management, OOP, Data Structures, Algorithms
 
-#Projects:
+Projects:
 ---
 -POSTECH Library Reserveration Script (Although exploiting a vulnerability)
 
-#Intentions:
+Intentions:
 ---
 I've been making small projects on my own, and plan to push scripts I write for documentation
 
